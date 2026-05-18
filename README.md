@@ -79,10 +79,10 @@ A boiling water reactor with the following geometry was analysed:
 
 ## Simulation Screenshots
 
-> [Model](https://github.com/sidjain24680-lgtm/Stress-Analysis-Thick-Boiling-Water-Reactor-Ansys-Lames-Theory/blob/main/Images/Model.png)
-> [Radial Stress](https://github.com/sidjain24680-lgtm/Stress-Analysis-Thick-Boiling-Water-Reactor-Ansys-Lames-Theory/blob/main/Images/Radial%20Stress.png)
-> [Longitudinal Stress](https://github.com/sidjain24680-lgtm/Stress-Analysis-Thick-Boiling-Water-Reactor-Ansys-Lames-Theory/blob/main/Images/Longitudinal%20Stress.png)
-> [Hoop Stress](https://github.com/sidjain24680-lgtm/Stress-Analysis-Thick-Boiling-Water-Reactor-Ansys-Lames-Theory/blob/main/Images/Hoop%20Stress.png)
+> ![Model](https://github.com/sidjain24680-lgtm/Stress-Analysis-Thick-Boiling-Water-Reactor-Ansys-Lames-Theory/blob/main/Images/Model.png)
+> ![Radial Stress](https://github.com/sidjain24680-lgtm/Stress-Analysis-Thick-Boiling-Water-Reactor-Ansys-Lames-Theory/blob/main/Images/Radial%20Stress.png)
+> ![Longitudinal Stress](https://github.com/sidjain24680-lgtm/Stress-Analysis-Thick-Boiling-Water-Reactor-Ansys-Lames-Theory/blob/main/Images/Longitudinal%20Stress.png)
+> ![Hoop Stress](https://github.com/sidjain24680-lgtm/Stress-Analysis-Thick-Boiling-Water-Reactor-Ansys-Lames-Theory/blob/main/Images/Hoop%20Stress.png)
 
 ---
 
