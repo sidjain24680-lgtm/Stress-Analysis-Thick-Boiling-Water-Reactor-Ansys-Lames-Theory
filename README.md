@@ -89,9 +89,9 @@ A boiling water reactor with the following geometry was analysed:
 ## Files in this Repository
 
 ```
-├── Animation/
+├── Animation/              # Simulation Video
 ├── Ansys_Project/          # Ansys Workbench project files (.wbpj)
-├── Images/
+├── Images/                 # Screen capture of simulation
 ├── Presentation.pdf        # Full project presentation with theory + results
 ├── Calculations/           # Hand calculations (Lame's equations, boundary conditions)
 └── README.md
